@@ -130,12 +130,6 @@ main {
   padding: 4px;
 }
 
-/* Style the footer content
-1. give it a text and background color with good contrast
-2. center the text 
-3. give the footer some height
-4. use padding or margins to make the text readable
-5. adjust the font-size  */
 footer {
   color: brown;
   background-color: pink;
